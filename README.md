@@ -8,6 +8,8 @@ This repository contains the source code for my blog available at [tommrodrigues
 
 The site uses the [Novela theme](https://github.com/narative/gatsby-theme-novela) developed by [Narative](https://www.narative.co), and is built with [GatsbyJS](https://www.gatsbyjs.org).
 
+Did I make a mistake? Please open a pull request!
+
 ## Usage
 
 Download and prepare the site with:
