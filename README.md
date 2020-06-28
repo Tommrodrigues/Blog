@@ -1,2 +1,46 @@
-# Blog
-My blog source code
+<p align="center">
+  <a href="https://tommrodrigues.github.io"><img src="https://i.ibb.co/ydZrYYX/ezgif-com-gif-maker-3.png" height="100"></a>
+</p>
+
+## Description
+
+This repository contains the source code for my blog available at [tommrodrigues.github.io](https://tommrodrigues.github.io).
+
+The site uses the [Novela theme](https://github.com/narative/gatsby-theme-novela) developed by [Narative](https://www.narative.co), and is built with [GatsbyJS](https://www.gatsbyjs.org).
+
+## Usage
+
+Download and prepare the site with:
+
+```
+gatsby new Website https://github.com/Tommrodrigues/Website
+```
+
+### Customisation
+
+From the `content` folder, you can modify authors and write posts in [Markdown](https://www.markdownguide.org/basic-syntax/). Site settings can be adjusted in the `gatsby-config.js` and `static/admin/config.yml` files.
+
+The favourite icon can be changed at `stc/assets/favicon.png`, and the logo can be changed at `src/@narative/gatsby-theme-novela/components/Logo/Logo.tsx`.
+
+See [here](https://github.com/narative/gatsby-theme-novela#customization) for more detailed customisation, and [here](https://github.com/narative/gatsby-starter-novela) for the official example site.
+
+### Development
+
+Run a local development version of the site with:
+```
+gatsby clean
+gatsby develop
+```
+
+Available at: http://localhost:8000
+
+### Build
+
+Prepare a deployable version of the site with:
+
+```sh
+gatsby clean
+gatsby build
+```
+
+Ready for deployment from `public`
