@@ -13,7 +13,7 @@ The site uses the [Novela theme](https://github.com/narative/gatsby-theme-novela
 Download and prepare the site with:
 
 ```
-gatsby new Website https://github.com/Tommrodrigues/Blog
+gatsby new Blog https://github.com/Tommrodrigues/Blog
 ```
 
 ### Customisation
