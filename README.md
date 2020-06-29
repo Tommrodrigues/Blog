@@ -20,7 +20,7 @@ gatsby new Blog https://github.com/Tommrodrigues/Blog
 
 From the `content` folder, you can modify authors and write posts in [Markdown](https://www.markdownguide.org/basic-syntax/). Site settings can be adjusted in the `gatsby-config.js` and `static/admin/config.yml` files.
 
-The favourite icon can be changed at `stc/assets/favicon.png`, and the logo can be changed at `src/@narative/gatsby-theme-novela/components/Logo/Logo.tsx`.
+The favourite icon can be changed at `stc/assets/favicon.png`, and the logo can be changed at `src/@narative/gatsby-theme-novela/components/Logo/index.js`.
 
 See [here](https://github.com/narative/gatsby-theme-novela#customization) for more detailed customisation, and [here](https://github.com/narative/gatsby-starter-novela) for the official example site.
 
