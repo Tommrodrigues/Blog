@@ -10,7 +10,7 @@ The site uses the [Novela theme](https://github.com/narative/gatsby-theme-novela
 
 ## Usage
 
-Download and prepare the site with:
+Download and prepare the site:
 
 ```
 gatsby new Blog https://github.com/Tommrodrigues/Blog
@@ -26,7 +26,7 @@ See [here](https://github.com/narative/gatsby-theme-novela#customization) for mo
 
 ### Development
 
-Run a local development version of the site with:
+Run a local development version of the site:
 ```
 gatsby clean
 gatsby develop
@@ -36,14 +36,14 @@ Available at: http://localhost:8000
 
 ### Build
 
-Prepare a deployable version of the site with:
+Prepare a deployable version of the site:
 
 ```sh
 gatsby clean
 gatsby build
 ```
 
-Ready for deployment from `public`
+Ready for deployment from `public` folder
 
 ## Notes
 
