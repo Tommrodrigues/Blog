@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://tommrodrigues.github.io"><img src="https://i.ibb.co/ydZrYYX/ezgif-com-gif-maker-3.png" height="100"></a>
-</p>
-
-## Description
+# Blog
 
 This repository contains the source code for my blog available at [tommrodrigues.github.io](https://tommrodrigues.github.io).
 
