@@ -8,7 +8,7 @@ excerpt: Smart lights are the easiest and most fun way of getting into home auto
 
 Smart lights are easily the most ubiquitous smart-home products. They look great, come in all shapes and sizes, and can be a gateway drug for further home automation.
 
-However, as I outlined in my post about [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home), not all of us are willing to foot the [$100+ price tag](https://www2.meethue.com/) that comes with many of these smart devices.
+However, as I outlined in my post about [My $99 Apple Smart Home](/my-dollar99-apple-smart-home), not all of us are willing to foot the [$100+ price tag](https://www2.meethue.com/) that comes with many of these smart devices.
 
 This is what led me on my quest to design and build my very own smart light for around $10 using some cheap electronics and [Homebridge](https://github.com/homebridge/homebridge).
 
@@ -74,7 +74,7 @@ The same concepts explained here can be ported to other cheap lights like Wi-Fi 
 - [Smart Lights](https://github.com/Tommrodrigues/homebridge-web-rgb/tree/master/examples)
 - [homebridge-web-rgb](https://github.com/Tommrodrigues/homebridge-web-rgb)
 - [Reprogramming cheap controllers](https://github.com/pauloromeira/Sonoff-Tasmota/wiki/MagicHome-LED-strip-controller)
-- [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home)
+- [My $99 Apple Smart Home](/my-dollar99-apple-smart-home)
 - [Pulse-width modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation/all)
 
 P.S. Buy your parts from AliExpress, it's way cheaper than Amazon!

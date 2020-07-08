@@ -14,7 +14,7 @@ Using this information, the controller can adjust watering schedules and duratio
 
 ![image](./images/rain.jpg)
 
-However, as I outlined in my post about [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home), not all of us are willing to foot the $300+ price tag that comes with devices like those from [Rachio](https://www.rachio.com).
+However, as I outlined in my post about [My $99 Apple Smart Home](/my-dollar99-apple-smart-home), not all of us are willing to foot the $300+ price tag that comes with devices like those from [Rachio](https://www.rachio.com).
 
 This is what led me on my quest to design and build my very own smart sprinkler system for less than $10 using some cheap electronics and [Homebridge](https://github.com/homebridge/homebridge).
 
@@ -66,6 +66,6 @@ With some simple modifications, it also opens up a practically endless number of
 
 - [Smart Sprinklers](https://github.com/Tommrodrigues/homebridge-web-sprinklers/tree/master/examples)
 - [homebridge-web-sprinkles](https://github.com/Tommrodrigues/homebridge-web-sprinklers)
-- [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home)
+- [My $99 Apple Smart Home](/my-dollar99-apple-smart-home)
 
 P.S. Buy your parts from AliExpress, it’s way cheaper than Amazon!

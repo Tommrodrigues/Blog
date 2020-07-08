@@ -8,7 +8,7 @@ excerpt: Controlling your home's temperature has never been easier with smart th
 
 It's never been easier to make your home's heating smart — there's a seemingly endless number of smart thermostats available, like those from [Nest](https://store.google.com/us/magazine/compare_thermostats?hl=en-US&GoogleNest&utm_source=nest_redirect&utm_medium=google_oo&utm_campaign=GS103056&utm_term=thermostats) and [Honeywell](https://www.honeywellhome.com/en/products/thermostat).
 
-Of course, as I outlined in my post about [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home), not all of us are willing to foot the $100+ price tag that comes with many of these smart devices.
+Of course, as I outlined in my post about [My $99 Apple Smart Home](/my-dollar99-apple-smart-home), not all of us are willing to foot the $100+ price tag that comes with many of these smart devices.
 
 This is what led me on my quest to design and build my very own smart thermostat for less than $10 using some cheap electronics and [Homebridge](https://github.com/homebridge/homebridge).
 
@@ -89,7 +89,7 @@ I was also able to save more than $100, and the tuned PID controller does a far 
 - [Smart Thermostat](https://github.com/Tommrodrigues/homebridge-web-boiler/tree/master/examples)
 - [homebridge-web-boiler](https://github.com/Tommrodrigues/homebridge-web-boiler)
 - [PID Auto-tuner Post](http://brettbeauregard.com/blog/2012/01/arduino-pid-autotune-library/)
-- [My $99 Apple Smart Home](https://tommrodrigues.github.io/my-dollar99-apple-smart-home)
+- [My $99 Apple Smart Home](/my-dollar99-apple-smart-home)
 - [Opentherm Adapter Post](http://ihormelnyk.com/arduino_opentherm_controller)
 - [OpenTherm Adapter PCB](https://github.com/Tommrodrigues/homebridge-web-boiler/tree/master/examples/OpenTherm%20PCB)
 
