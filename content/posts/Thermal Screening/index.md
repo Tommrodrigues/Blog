@@ -3,7 +3,7 @@ title: Thermal Screening
 author: Tom Rodrigues
 date: 2020-07-23
 hero: ./images/hero.jpg
-excerpt: Many boarders have introduced thermal screening in an attempt to prevent the spread of COVID-19. However, evidence shows that this type of screening is ineffective.
+excerpt: Many borders have introduced thermal screening in an attempt to prevent the spread of COVID-19. However, evidence shows that this type of screening is ineffective.
 ---
 
 Shortly after the outbreak of the coronavirus, some countries halted international travel to certain high-risk nations, and many airports introduced safety measures including the thermal screening of passengers.
@@ -48,7 +48,7 @@ Unsurprisingly, the World Health Organization (WHO) does not recommend thermal s
 
 ## Thermal screening alternatives
 
-It is clear that whilst thermal screening might reassure the public, it does little more than that. So, the question remains: what can be done at boarders to prevent the spread of the virus?
+It is clear that whilst thermal screening might reassure the public, it does little more than that. So, the question remains: what can be done at borders to prevent the spread of the virus?
 
 Of course, a mandatory quarantine on arrival is scientifically effective, since the person is isolated for the entirety of the potential incubation period.
 
@@ -72,7 +72,7 @@ Of course, the coronavirus situation continues to develop on a daily basis, and 
 
 However, the fact is that thermal screening does little to actually prevent the spread of the virus, and there is evidence for its ineffectiveness in the past.
 
-Until we have a quick, cheap, and reliable way to test for the virus at boarders, measures such as quarantining and effective contact tracing should be implemented in place of thermal screening.
+Until we have a quick, cheap, and reliable way to test for the virus at borders, measures such as quarantining and effective contact tracing should be implemented in place of thermal screening.
 
 In the meantime, do your part by making sure you [wear a face mask](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-face-masks-what-you-need-to-know) in public!
 
