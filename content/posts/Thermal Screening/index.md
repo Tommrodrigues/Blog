@@ -6,7 +6,7 @@ hero: ./images/hero.jpg
 excerpt: Many boarders have introduced thermal screening in an attempt to prevent the spread of COVID-19. However, evidence shows that this type of screening is ineffective.
 ---
 
-Shortly after the outbreak of the coronavirus, many countries halted international travel to certain high-risk nations, and airports introduced safety measures including the thermal screening of passengers.
+Shortly after the outbreak of the coronavirus, some countries halted international travel to certain high-risk nations, and many airports introduced safety measures including the thermal screening of passengers.
 
 Thermal screening had previously been implemented during the 2003 SARS epidemic and the 2009 H1N1 pandemic, but the fact is that this type of screening does little more than reassure the public.
 
@@ -32,7 +32,7 @@ This was certainly [the case in Canada](https://www.ncbi.nlm.nih.gov/pmc/article
 
 ## The evidence
 
-A [study published](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000080) by the London School of Hygiene and Tropical Medicine used a [computer model](https://cmmid-lshtm.shinyapps.io/traveller_screening/) to evaluate the effectiveness of thermal screening by simulating 100 infected travellers who could pose a risk to a new region.
+A [study published](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000080) by the London School of Hygiene and Tropical Medicine used a [computer model](https://cmmid-lshtm.shinyapps.io/traveller_screening/) to evaluate the effectiveness of thermal screening by simulating 100 infected travellers who could pose a COVID-19 risk to a new region.
 
 By taking into account travel time, incubation time, asymptomatic cases, and the accuracy of detection machines, they calculated that 46 of the 100 infected passengers would pass through screening completely undetected.
 
@@ -70,7 +70,7 @@ From there, authorities can carry out [detailed contact tracing](https://www.bus
 
 Of course, the coronavirus situation continues to develop on a daily basis, and so figures relating to incubation times, active cases, and asymptomatic cases etc. are still not fully known.
 
-However, evidence has shown that thermal screening does little to actually prevent the spread of the virus, and there is evidence for its ineffectiveness in the past.
+However, the fact is that thermal screening does little to actually prevent the spread of the virus, and there is evidence for its ineffectiveness in the past.
 
 Until we have a quick, cheap, and reliable way to test for the virus at boarders, measures such as quarantining and effective contact tracing should be implemented in place of thermal screening.
 
