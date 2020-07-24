@@ -18,7 +18,7 @@ This post outlines how I achieved my goal, see [here](https://github.com/Tommrod
 
 Creating a misting system is super simple. All you need is some way of supplying water and having it forced through a small nozzle.
 
-Many shops offer misting kits which contain tubing, nozzle heads, and some fittings. Simply purchase enough tubing for the area you want to cover, then get enough nozzles to have one every 2 feet or so.
+Many shops offer misting kits which contain tubing, nozzle heads, and some fittings. Purchase enough tubing for the area you want to cover, then get enough nozzles to have one every 2 feet or so.
 
 ![image](./images/hose.jpg)
 
@@ -32,11 +32,11 @@ Once you've got the system set up and connected to a water supply, making it sma
 
 It's undesirable to have the misters on constantly, so some form of modulation is ideal. In my experience, I found 10 seconds on, and 20 seconds off, was best to keep cool without getting soaked.
 
-To achieve this, you can simply purchase a solenoid valve and hook it up to a [NodeMCU](https://www.nodemcu.com/index_en.html) which will manage everything and communicate with the [homebridge-web-valve](https://github.com/Tommrodrigues/homebridge-web-valve) plugin, so all you need to do is set the desired state in [Apple HomeKit](https://www.apple.com/ios/home/).
+To achieve this, hook up a solenoid valve to a [NodeMCU](https://www.nodemcu.com/index_en.html) which will manage everything and communicate with the [homebridge-web-valve](https://github.com/Tommrodrigues/homebridge-web-valve) plugin, so all you need to do is set the desired state in [Apple HomeKit](https://www.apple.com/ios/home/).
 
 ## Conclusion
 
-Making your own smart misting system is ultimately quick and simple project, and is a great way to add character to outdoor spaces.
+Making your own smart misting system is ultimately quick and easy project, and is a great way to add character to outdoor spaces.
 
 The project is totally scalable, so you can cover as much area as you want. Similarly, you can adjust the modulation times to whatever you like best.
 
