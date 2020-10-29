@@ -93,6 +93,7 @@ If a guy with no prior programming knowledge can save more than $1000, then you 
 
 
 ## Links
+
 - [Raspberry Pi Homebridge](https://gist.github.com/Tommrodrigues/c2de35f0dec0235c8600cfed29b59c1e)
 - [Smart outlets](https://github.com/Tommrodrigues/homebridge-nodemcu-rf)
 - [Smart LED strips](https://github.com/Tommrodrigues/homebridge-web-rgb/tree/master/examples)

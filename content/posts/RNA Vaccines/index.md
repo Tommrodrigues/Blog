@@ -24,7 +24,7 @@ But developing a vaccine against a pathogen takes time, and in a pandemic situat
 
 The immune system is a remarkably complex system that is capable of recognising and eliminating invading organisms, then developing a memory of the invader so that future infections can be dealt with straight away.
 
-At its heart, the immune system functions by responding to the proteins present on the surface invading pathogens: antigens.
+At its heart, the immune system functions by responding to the proteins present on the surface of invading pathogens: antigens.
 
 ![image](./images/virus.jpg)
 

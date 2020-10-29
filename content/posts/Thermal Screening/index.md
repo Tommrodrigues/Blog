@@ -79,21 +79,12 @@ In the meantime, do your part by making sure you [wear a face mask](https://www.
 ## Links
 
 - [LSHTM paper](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000080)
-
 - [Thermal screening model](https://cmmid-lshtm.shinyapps.io/traveller_screening/)
-
 - [Screening for SARS in Australia](https://pubmed.ncbi.nlm.nih.gov/14984341/)
-
 - [Screening for SARS in Canada](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294328/)
-
 - [RT-PCR and molecular assays](https://www.cdc.gov/flu/professionals/diagnosis/molecular-assays.htm)
-
 - [Contact tracing](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/contact-tracing.html)
-
 - [South Korea contact tracing](https://www.businessinsider.com/south-korea-contact-tracing-helped-control-nightclub-outbreak-2020-5?IR=T)
-
 - [ECDC assessment](https://www.ecdc.europa.eu/sites/default/files/documents/Considerations-related-to-measures-for-travellers-reduce-spread-COVID-19-in-EUEEA.pdf)
-
 - [WHO press release](https://www.who.int/news-room/articles-detail/who-advice-for-international-travel-and-trade-in-relation-to-the-outbreak-of-pneumonia-caused-by-a-new-coronavirus-in-china)
-
 - [Wearing a face mask](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-face-masks-what-you-need-to-know)
