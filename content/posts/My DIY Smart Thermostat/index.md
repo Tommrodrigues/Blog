@@ -38,7 +38,7 @@ However, if you've never had experience making your own circuits, and the schema
 
 Otherwise, if you're willing to give it a shot, and would rather not spend $15 on something you can make yourself for less than $10, simply buy the components listed on the blog, and solder them to some perfboard.
 
-If you want to be super fancy, I've designed a PCB [here](https://github.com/Tommrodrigues/homebridge-web-boiler/tree/master/examples/OpenTherm%20PCB) which you could send off to be made for a couple of dollars, and save yourself a lot of headache when it comes to soldering soldering the components you've ordered!
+If you want to be super fancy, I've designed a PCB [here](https://github.com/Tommrodrigues/homebridge-web-boiler/tree/master/examples/OpenTherm%20PCB) which you could send off to be made for a couple of dollars, and save yourself a lot of headache when it comes to soldering the components you've ordered!
 
 Once you've got your OpenTherm adapter, we're nearly there!
 
@@ -74,7 +74,7 @@ Once you've set your thermostat up, you should run the auto-tuner when the ambie
 
 The auto-tuner will oscillate the boiler temperature very high and very low to see how the ambient temperature reacts. Note that this may take a few hours, and your home may become uncomfortably warm/cool whilst tuning is taking place
 
-From the tuning, the NodeMCU can back-calculate figures for each of the PID values for your home. These are ballpark figures, and will require finer manual tuning to optimise them.
+From the tuning, the NodeMCU can back-calculate figures for each of the PID values for your home. These are ballpark figures, and might require finer manual tuning to optimise them.
 
 ## Conclusion
 
