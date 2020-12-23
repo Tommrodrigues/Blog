@@ -52,7 +52,7 @@ To shorten the development time of a new vaccine, scientists are attempting to l
 
 Unlike typical vaccines, which introduce viral proteins into the patient, RNA vaccines instead introduce the instructions for making those proteins in the patient's own cells.
 
-Without going into too much depth, messenger RNA, or mRNA, is produced in cells during transcription, where sections of DNA inside the nucleus of a cell are copied.
+Without going into too much depth, messenger RNA (mRNA) is produced in cells during transcription, where sections of DNA inside the nucleus of a cell are copied.
 
 This transcript moves out of the nucleus of the cell to be read by ribosomes which create strings of amino acids in a process called translation. These polypeptide strings then fold up into complex shapes that dictate their function as finished proteins.
 
