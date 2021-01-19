@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "gatsby clean && gatsby develop",
+    "develop": "gatsby clean && gatsby develop",
     "serve": "gatsby clean && gatsby develop -H 0.0.0.0",
     "build": "gatsby clean && gatsby build && rm -r ../tommrodrigues.github.io/* && cp -a ./public/. ../tommrodrigues.github.io/ && gatsby clean && open -a 'GitHub Desktop'",
     "clean": "gatsby clean"
