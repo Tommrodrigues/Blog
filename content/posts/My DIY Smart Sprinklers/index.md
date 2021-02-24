@@ -54,7 +54,7 @@ From here, our scheduling and watering times can be calculated by the [homebridg
 
 As a result, we can take a hands-free approach to looking after our garden as everything will be calculated for us in accordance with weather forecast calculations.
 
-Because we have implemented this with [Apple HomeKit](https://www.apple.com/ios/home/), we can also have manual control over each zone, allowing us fo manually activate and deactivate each zone at any time.
+Because we have implemented this with [Apple HomeKit](https://www.apple.com/ios/home/), we can also have manual control over each zone, allowing us to manually activate and deactivate each zone at any time.
 
 ## Conclusion
 
