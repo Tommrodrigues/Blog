@@ -6,17 +6,17 @@ hero: ./images/hero.jpg
 excerpt: We use Wi-Fi every day for everything from keeping in touch with friends and family to online banking. But how safe are we when we use Wi-Fi?
 ---
 
-Wi-Fi is something we all use use every day, and is essential for connecting our devices to the internet.
+Wi-Fi is something we all use every day, and is essential for connecting our devices to the internet.
 
 Yet, Wi-Fi has some key vulnerabilities which make it susceptible to cracking, potentially opening up networks for hackers to snoop around in.
 
-In this post I hope to highlight the importance of cyber security by demonstrating how simple Wi-Fi cracking can be.
+In this post, I hope to highlight the importance of cybersecurity by demonstrating how simple Wi-Fi cracking can be.
 
 ![image](./images/hacker.jpg)
 
 Nowadays, most wireless networks are secured using either [WPA](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA) or [WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA2). Both of which are vulnerable to the methods described in this post.
 
-Older networks are sometimes secured using [WEP](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy) — a totally insecure older standard which can be hacked without any password cracking whatsoever.
+Older networks are sometimes secured using [WEP](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy) — a totally insecure older standard that can be hacked without any password cracking whatsoever.
 
 A growing number of networks are being secured with [WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA3), the next generation of WPA. It is currently impervious to the methods described here, but there is speculation that it mightn't be as secure as we'd like to hope… Read more [here](https://www.forbes.com/sites/kateoflahertyuk/2019/04/11/flaws-in-wpa3-wi-fi-standard-allow-attackers-to-crack-passwords-and-view-traffic/#ac1ab617050c).
 
@@ -46,7 +46,7 @@ More difficult, however, is capturing a WPA handshake.
 
 ![image](./images/hacker2.jpg)
 
-Handshakes occur only when a device (re)connects to a network. For busier networks this isn't a problem as we can just wait until this happens naturally.
+Handshakes occur only when a device (re)connects to a network. For busier networks, this isn't a problem as we can just wait until this happens naturally.
 
 But, for networks where handshakes may happen less frequently, we can run a [deauthentication attack](https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack) on the target to force a handshake.
 
@@ -104,7 +104,7 @@ This isn't too bad for smaller passwords, especially when you're just using lowe
 
 The minimum length for a WPA password is 8 characters. For a password of this length, even just with upper or lowercase letters, brute-forcing will already take a considerable amount of time.
 
-Furthermore, if you increase the password length and start adding in numbers, uppercase letters, and special characters, brute-forcing is completely unreasonable — think lifetime of the universe to crack a single password.
+Furthermore, if you increase the password length and start adding in numbers, uppercase letters, and special characters, brute-forcing is completely unreasonable — think the lifetime of the universe to crack a single password.
 
 ## Conclusion
 
@@ -112,7 +112,7 @@ Wi-Fi cracking is really very simple if the password is inadequate.
 
 If you'd like to learn more or try it out for yourself, see [this](https://louisabraham.github.io/articles/WPA-wifi-cracking-MBP.html) blog post, and [this](https://github.com/Tommrodrigues/WiFiCrackPy) automated python script.
 
-When it comes to choosing a Wi-Fi password to better protect yourself from this sort of attack, your best bet is using a random password generator which uses a mixture of upper and lowercase letters, numbers, and special characters to make a password 20 or more characters long.
+When it comes to choosing a Wi-Fi password to better protect yourself from this sort of attack, your best bet is using a random password generator that uses a mixture of upper and lowercase letters, numbers, and special characters to make a password 20 or more characters long.
 
 Do this, and you can set your mind at ease — unless somebody is willing to wait until the heat death of the universe, your network should be safe!
 

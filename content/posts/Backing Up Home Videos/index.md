@@ -22,7 +22,7 @@ Connecting the camcorder to my MacBook required two adapters: one from FireWire 
 
 ![image](./images/tapes.jpg)
 
-After connecting the daisy chain of cables and adapters, I was able play the tape on the camcorder and have it recorded straight into iMovie.
+After connecting the daisy chain of cables and adapters, I was able to play the tape on the camcorder and have it recorded straight into iMovie.
 
 This was a tedious process as the tapes had to be recorded at normal speed. iMovie also separates out clips on the tape, so you have to stitch together any clips you want in the same video.
 
@@ -44,7 +44,7 @@ The process of converting the files took a while, but was definitely worth it. I
 
 ## The 3-2-1 backup rule
 
-Once I had the the videos optimised, I needed to store them in such a way that they would be safe, organised, and accessible.
+Once I had the videos optimised, I needed to store them in such a way that they would be safe, organised, and accessible.
 
 The golden 3-2-1 backup rule states that you should have 3 copies of the data: 2 local copies, and 1 offsite backup.
 

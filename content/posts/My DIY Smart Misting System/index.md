@@ -18,11 +18,11 @@ This post outlines how I achieved my goal, see [here](https://github.com/Tommrod
 
 Creating a misting system is super simple. All you need is some way of supplying water and having it forced through a small nozzle.
 
-Many shops offer misting kits which contain tubing, nozzle heads, and some fittings. Purchase enough tubing for the area you want to cover, then get enough nozzles to have one every 2 feet or so.
+Many shops offer misting kits that contain tubing, nozzle heads, and some fittings. Purchase enough tubing for the area you want to cover, then get enough nozzles to have one every 2 feet or so.
 
 ![image](./images/hose.jpg)
 
-For small to medium sized systems, the pressure supplied by a water faucet should be sufficient. But, for larger systems, it's wise to have a pump to pressurise the water further.
+For small to medium-sized systems, the pressure supplied by a water faucet should be sufficient. But, for larger systems, it's wise to have a pump to pressurise the water further.
 
 Similarly, using municipal water should be fine unless the mineral content is especially high. If that is the case, you should purchase an inline mineral filter to prevent the blocking of your tubing and nozzles.
 
@@ -36,7 +36,7 @@ To achieve this, hook up a solenoid valve to a [NodeMCU](https://www.nodemcu.com
 
 ## Conclusion
 
-Making your own smart misting system is ultimately quick and easy project, and is a great way to add character to outdoor spaces.
+Making your own smart misting system is ultimately a quick and easy project, and is a great way to add character to outdoor spaces.
 
 The project is totally scalable, so you can cover as much area as you want. Similarly, you can adjust the modulation times to whatever you like best.
 

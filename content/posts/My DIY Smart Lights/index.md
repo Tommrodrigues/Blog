@@ -47,7 +47,7 @@ E.g. if all three channels are on in equal amounts, the result will be white lig
 
 ## The controller
 
-To achieve pulse width modulation with something like [NodeMCU](https://www.nodemcu.com/index_en.html), you need attach a transistor which can convey the controller's PWM to the LED strip using the correct voltages. See [here](https://github.com/Tommrodrigues/homebridge-web-rgb/tree/master/examples) for the circuit and code.
+To achieve pulse width modulation with something like [NodeMCU](https://www.nodemcu.com/index_en.html), you need to attach a transistor that can convey the controller's PWM to the LED strip using the correct voltages. See [here](https://github.com/Tommrodrigues/homebridge-web-rgb/tree/master/examples) for the circuit and code.
 
 However, getting the correct parts and soldering everything together can be an unnecessary hassle.
 

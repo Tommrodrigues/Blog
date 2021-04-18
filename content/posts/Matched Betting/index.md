@@ -16,7 +16,7 @@ I've been doing matched betting for the past couple of months and have effortles
 
 Matched betting, put simply, is a technique to profit from the free bets and incentives offered by bookmakers. For example: "bet £25 with us and we'll give you a £25 free bet!".
 
-It is a tried-and-tested technique that is totally risk free when done correctly. This is due to the fact that it relies on mathematical equations rather than chance.
+It is a tried-and-tested technique that is totally risk-free when done correctly. This is due to the fact that it relies on mathematical equations rather than chance.
 
 ![image](./images/stadium.jpg)
 
@@ -49,9 +49,9 @@ This is a very small loss and, is totally outweighed by the profit gained after 
 
 ## The risk
 
-Matched betting is really a simple process once you've wrapped your head around it, and anybody can learn to do it.
+Matched betting is a simple process once you've wrapped your head around it, and anybody can learn to do it.
 
-In theory, the process is totally risk free as we are covered for any eventuality, ensuring a profit is achieved.
+In theory, the process is totally risk-free as we are covered for any eventuality, ensuring a profit is achieved.
 
 ![image](./images/racing.jpg)
 
@@ -59,7 +59,7 @@ As such, the risk only comes about when mistakes are made, or T&Cs are not read 
 
 ## In practice
 
-There are plenty of guides out there which give detailed walk-throughs of actual matched betting examples. I highly recommend [this](https://www.savethestudent.org/make-money/what-is-matched-betting.html) guide.
+There are plenty of guides out there that give detailed walk-throughs of actual matched betting examples. I highly recommend [this](https://www.savethestudent.org/make-money/what-is-matched-betting.html) guide.
 
 Once you feel comfortable with the process, and have completed free bets suggested by guides, you can have a search around for more bookmakers offering free bets to maximise your earnings.
 
@@ -67,13 +67,13 @@ For some of these bookmakers, you may need to use [this](https://bonusbagging.co
 
 ## Conclusion
 
-The fact remains that matched betting is a super easy way of making some decent cash online, totally legally and risk-free.
+The fact remains that matched betting is a super-easy way of making some decent cash online, totally legally and risk-free.
 
 The process is fairly easy to learn, and can be applied to many offer types, including slight variations of the methods described here like risk-free betting offers.
 
 ![image](./images/stocks.jpg)
 
-It is important to understand the entire process clearly, read T&Cs specifics, and ensure that everything is executed correctly in order to avoid any mistakes.
+It is important to understand the entire process clearly, read T&Cs specifics, and ensure that everything is executed correctly to avoid any mistakes.
 
 You should also follow any betting or gambling requirements in your country, and check that matched betting does not violate any T&Cs you agree to.
 

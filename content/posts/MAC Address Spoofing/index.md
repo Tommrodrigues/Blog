@@ -49,9 +49,9 @@ In this case, you scan the network for all MAC addresses, choose one, and clone 
 
 ### Bypassing restriction
 
-Other times, it might be necessary to bypass a network restriction which defines which manufacturer's devices can join (e.g. Microsoft devices only).
+Other times, it might be necessary to bypass a network restriction that defines which manufacturer's devices can join (e.g. Microsoft devices only).
 
-In this case, we once again scan the network for all MAC addresses and choose one, but instead of cloning it, we change just the last few characters — making it appear that your device is from the same manufacturer as the MAC addresss we chose.
+In this case, we once again scan the network for all MAC addresses and choose one, but instead of cloning it, we change just the last few characters — making it appear that your device is from the same manufacturer as the MAC address we chose.
 
 ### Preventing tracking
 

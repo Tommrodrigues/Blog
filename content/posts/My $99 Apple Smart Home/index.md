@@ -44,7 +44,7 @@ My first project was fairly simple: smart outlets.
 
 You can buy 5 cheap RF outlets for about $25, plug one into an outlet, then control anything that plugs into it with the included remote.
 
-But who really wants to have to run around the house with a flimsy remote everyday at sunset, switching on their lights, then remembering to switch them off before they go to bed?
+But who really wants to have to run around the house with a flimsy remote every day at sunset, switching on their lights, then remembering to switch them off before they go to bed?
 
 My idea was that I could connect the NodeMCU to an RF transmitter and have it control all the lights for me, instead of having to use the remote.
 
@@ -62,8 +62,10 @@ After the success of the first project, I was keen to automate even more of my h
 
 ![image](./images/programming2.jpg)
 
-It was great, not only had I automated my home for a fraction of the cost, I'd also learnt to program in multiple languages and how to build IoT devices.
+It was great, not only had I automated my home for a fraction of the cost, butI'd also learnt to program in multiple languages and how to build IoT devices.
+
 Currently, I have the following DIY devices in my home:
+
 - 5x Smart outlets for $28
 - 4x 5m smart LED strips for $36 ($9 each)
 - 2x Smart garage/gate openers for $10 ($5 each)
@@ -72,6 +74,7 @@ Currently, I have the following DIY devices in my home:
 - 1x Smart misting system for $6
 
 This adds up to around $99! Even more interesting, purchasing the commercially available versions of the accessories would've cost the following:
+
 - 5x iHome Smart Outlets for $200 ($40 each)
 - 4x Philips Hue Lightstrip Plus 5m for $320 ($80 each)
 - 2x Insignia Door Controllers for $100 ($50 each)

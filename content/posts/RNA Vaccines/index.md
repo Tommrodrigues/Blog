@@ -36,7 +36,7 @@ Once an infection has been dealt with, antibody production for the pathogen will
 
 ## Traditional vaccinology
 
-Traditionally, scientists have developed vaccines which protect us by exposing our immune systems to weakened versions of pathogens.
+Traditionally, scientists have developed vaccines that protect us by exposing our immune systems to weakened versions of pathogens.
 
 This prepares the immune system for a 'real' infection by triggering an immune response without you actually having to go through the disease process.
 
@@ -44,7 +44,7 @@ This prepares the immune system for a 'real' infection by triggering an immune r
 
 However, safely creating a version of the pathogen that correctly stimulates the immune system, without causing the disease it's meant to prevent, is very difficult.
 
-This process of producing the vaccine typically requires the growing of viruses in chicken eggs or mammalian cell cultures, making it an incredibly slow, costly, and resource-intensive process.
+This process of producing the vaccine typically requires the growth of viruses in chicken eggs or mammalian cell cultures, making it an incredibly slow, costly, and resource-intensive process.
 
 ## RNA vaccines
 
@@ -58,18 +58,18 @@ This transcript moves out of the nucleus of the cell to be read by ribosomes whi
 
 ![image](./images/petri.jpg)
 
-An RNA vaccine, not at all unlike the the actual process of viral infection, seeks to place a specific genetic sequence into cells in such a way that it will be translated into proteins.
+An RNA vaccine, not at all unlike the actual process of viral infection, seeks to place a specific genetic sequence into cells in such a way that it will be translated into proteins.
 
 But, where a virus injects a complete genome into the host cell to hijack the cell's machinery to make more copies of itself, an RNA vaccine's payload is very limited, just containing the instructions for the antigens of the target pathogen.
 
 Once the RNA vaccine has been introduced into a patient, the cells will dutifully translate the genetic code, producing the desired antigens.
 
-By doing this, the patient's own cells are essentially doing the job normally done in chicken eggs or a cell culture, with no need for expensive and time-consuming purification of the final product.
+By doing this, the patient's own cells are essentially doing the job normally done in chicken eggs or cell cultures, with no need for expensive and time-consuming purification of the final product.
 
 ## Conclusion
 
 The RNA vaccine process sounds reasonably straightforward, but as with all things in biology, things are a little more complicated.
 
-The main issue is that simply injecting raw RNA into a cell is unlikely to work, so focus is on delivering RNA vaccines via lipid nanoparticles. This lipid container protects the RNA, and makes uptake by the patient's cells more reliable.
+The main issue is that simply injecting raw RNA into a cell is unlikely to work, so the focus is on delivering RNA vaccines via lipid nanoparticles. This lipid container protects the RNA, and makes uptake by the patient's cells more reliable.
 
 Of course, once the finer details are worked out, the fact remains that by leveraging what our cells already do so well, we might be able to get vaccines for COVID-19, future pandemics, other diseases, and perhaps even cancer, to a waiting world much faster than by trying to do it the traditional way.

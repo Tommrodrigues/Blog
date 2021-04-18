@@ -32,7 +32,7 @@ The circuit diagram is as follows:
 
 ![image](./images/schematic.png)
 
-Nothing too complicated, just some resistors, diodes, opto-couplers, and transistors.
+Nothing too complicated, just some resistors, diodes, optocouplers, and transistors.
 
 However, if you've never had experience making your own circuits, and the schematic above scares you, you might feel more comfortable buying a pre-made adaptor from the [blog](http://ihormelnyk.com/shop/arduino_opentherm_controller).
 
@@ -64,7 +64,7 @@ The PID controller uses some set values to work out how it should behave.
 
 For example, if your home is well insulated, it may require more even heating over a longer period of time. Another home might instead lose heat more quickly, so the controller should be more sensitive to sudden changes.
 
-The values the PID uses are: Kp, Ki, and Kd. You can look up PID controller theory if you want more information on what each of the values are responsible for — but just know that these values will vary between homes.
+The values the PID uses are: Kp, Ki, and Kd. You can look up PID controller theory if you want more information on what each of the values is responsible for — but just know that these values will vary between homes.
 
 ![image](./images/tuning.jpg)
 
