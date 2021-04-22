@@ -16,13 +16,13 @@ You can put this cash towards future purchases, and turn points into vouchers fo
 
 ## Welcome offers
 
-Welcome offers are one of the easiest ways to get the most out of a credit card.
+First are welcome offers - one of the easiest ways to benefit from a credit card.
 
-Most credit card companies will advertise something like "spend £3,000 in your first three months and earn 20,000 points".
+Most card companies will entice you with something like "spend £3,000 in your first three months and earn 20,000 points".
 
 ![image](./images/shopping.webp)
 
-Essentially, if you spend a certain amount of money on the card in the first few months, you get a fantastic one-time reward.
+Essentially, if you spend a certain amount of money on the card in the first few months of owning it, you get a fantastic one-time reward.
 
 Depending on your card type, this could be in the form of hard cash, or points you can redeem for vouchers, discounts, and other benefits.
 
@@ -30,7 +30,7 @@ These offers are especially great if you have a big purchase coming up, e.g. a n
 
 ## Spending bonuses
 
-Spending bonuses are a great way to benefit from a rewards credit card on a day-to-day basis.
+Next are spending bonuses, which are the best way to benefit from a rewards credit card on a day-to-day basis.
 
 Basically, for every £1 you spend, you are rewarded some of that back either as cashback, or as points.
 
@@ -46,27 +46,27 @@ These benefits range from premium airport lounge access and free hotel upgrades,
 
 ![image](./images/champagne.jpg)
 
-For most people, these benefits aren't worth the high annual fee, but for others, the extra luxury, exclusivity, and prestige is worth the price.
+For most people, these benefits aren't worth the high annual fee, but for some, the extra luxury, exclusivity, and prestige is worth the price.
 
 ## Other benefits
 
-The benefits don't stop here either.
+The benefits don't stop there either.
 
-Often, you will be given access to exclusive offers for certain retailers, e.g. "Spend £500 with British Airways and get £150 back". Plenty of these offers are made available every week, and it's a great way to save some extra money.
+Often, you will receive exclusive offers for retailers, e.g. "Spend £500 with British Airways and get £150 back". Plenty of these deals are made available every week, and it's a great way to save some extra money.
 
-Additionally, many credit card issuers offer some form of insurance for simply owning the card. This includes travel insurance, life insurance, medical insurance, legal assistance, possessions insurance, car rental insurance, and personal accident insurance.
+Additionally, many credit card issuers offer some form of insurance for simply owning the card. This can include travel insurance, life insurance, medical insurance, legal assistance, possessions insurance, car rental insurance, and personal accident insurance.
+
+Further, all UK credit cards offer purchase protection. This means that, for eligible purchases, the credit card issuer is equally as liable to provide a refund as the seller if there is an issue. As an example, this might be really helpful if your holiday gets cancelled and the hotel won't refund you.
 
 ![image](./images/skiing.jpg)
 
-Further, at least in the UK, all credit cards offer purchase protection. This means that, for eligible purchases, the credit card issuer is equally as liable to provide a refund as the seller if there is an issue. This is really handy if your holiday gets cancelled and the hotel won't refund you, for example.
-
-Also, remember that paying off your bill in full every month strengthens your credit score, proving your ability to pay off debts. This can be especially useful when it comes to getting a mortgage or a loan, and may even reduce interest rates.
+Finally, remember that paying off your bill in full every month strengthens your credit score, proving your ability to pay off debts. This can be especially useful when it comes to getting a mortgage or a loan, and may even reduce interest rates.
 
 ## Need-to-knows
 
-This all sounds great, but if you don't pay off your balance **in full** every month, you will get hit with interest on the money you owe, outweighing any of these benefits.
+This all sounds great, but if you don't pay off your balance in full every month, you will get hit with interest on the money you owe, outweighing all of these benefits.
 
-The best way to avoid this is to set up a direct debit that pays your bill for you **in full** every month, automatically.
+The best way to avoid this is to set up a direct debit that pays your bill **in full** every month.
 
 You should also make sure you only use the card for **normal** spending, and don't use your credit as an excuse to overspend.
 
@@ -78,7 +78,7 @@ Finally, if you have debts, it's best to sort them out before going for a reward
 
 When used properly, a credit card will only benefit you, and you'll be able to take advantage of the amazing offers available.
 
-Always shop around for a credit card to find the best deal, and see how you can maximise any offerings.
+Always shop around to find the best deal, and see how you can maximise any offerings.
 
 ![image](./images/portofino.jpg)
 
