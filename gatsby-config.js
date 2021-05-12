@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: 'linkedin',
-        url: 'https://www.linkedin.com/in/tom-rodrigues-542069185/'
+        url: 'https://www.linkedin.com/in/tommrodrigues/'
       },
       {
         name: 'buymeacoffee',
