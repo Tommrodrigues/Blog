@@ -53,7 +53,7 @@ However, getting the correct parts and soldering everything together can be an u
 
 Thankfully, there are some cheap Wi-Fi LED controllers which have the necessary hardware and circuitry baked in, so we can just modify the software to get what we want. See [here](https://github.com/pauloromeira/Sonoff-Tasmota/wiki/MagicHome-LED-strip-controller) for how to reprogram one such controller.
 
-![image](./images/cube.png)
+![image](./images/colour.jpg)
 
 After (re)programming the controller and connecting it to a cheap $5 LED strip, the software manages all the PWM for you.
 
