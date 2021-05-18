@@ -84,4 +84,4 @@ Always shop around to find the best deal, and see how you can maximise any offer
 
 Think about what you want from a rewards card - if you shop at a certain supermarket, maybe it's best to get points you can redeem there. Or, if you fly a lot, an airline credit card might benefit you the most.
 
-_P.S. If you live in the UK, contact me to get an extra £10 on top of the welcome offer for the American Express Platinum Cashback Everyday card!_
+_P.S. If you live in the UK, contact me to get an extra £20 on top of the welcome offer for the American Express Platinum Cashback Everyday card!_
