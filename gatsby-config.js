@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: 'https://tommrodrigues.github.io',
     description: 'Tom Rodrigues’s blog',
     hero: {
-      heading: 'Perspectives on science, technology, and design.',
+      heading: 'Perspectives on science, technology, and economics.',
       maxWidth: 652
     },
     social: [
